@@ -1,0 +1,26 @@
+mainpage - content_img.jsp
+content_img 에서 debug 실행
+
+----ver.1----
+완료
+content_img.jsp (이미지출력X)
+delete.jsp (되감기버튼)
+
+버튼만 생성
+write.jsp (write_ok.jsp) (사진버튼)
+like (하트; 좋아요 기능)
+
+업데이트 예정 파일
+login.jsp	: 로그인 작용하는 파일
+logout.jsp : 로그아웃 작용하는 파일
+login_main.jsp : 로그인 하는 페이지(메인화면 예정)
+join.jsp : 회원가입 화면 (+작용하는 파일 join_ok.ksp)
+
+현재 이미지 업로드를 못함
+그에따라 사진업로드, 수정 기능을 다 적용, 추가안했음
+
+현재 불필요한 jsp파일
+content.jsp
+imgup.jsp
+upload.jsp
+
